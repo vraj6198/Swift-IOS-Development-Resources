@@ -1,10 +1,7 @@
----
-layout: post
-title: Swift and iOS Development Learning Resources
-description: Good resources for learning iOS development with swift.
-comments: true
-keywords: ios, swift, xcode, apple, app store, learning, tutorials, resources
----
+
+
+## keywords: ios, swift, xcode, apple, app store, learning, tutorials, resources
+
 Swift is a must-know language for those who are thinking of building an app for Apple’s devices (iPhone, MacOS, etc.). Swift is the fastest-growing language it has seen in that time. Here is some resources that could be very helpful.
 
 ### Apple Resources
